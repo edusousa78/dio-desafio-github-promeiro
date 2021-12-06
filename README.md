@@ -1,2 +1,5 @@
-# dio-desafio-github-promeiro
-Desafio de Projeto GIthub
+# Desafio de Projeto sobre Git/Github na Dio
+Repositório criado para o desafio de projeto
+
+# Links Úteis
+[Syntaxe Básica Markdown](https://www.markdownguide.org/)
